@@ -1,0 +1,3 @@
+Issues:
+* Aligning the linked in logo etc. correctly
+* Aligning the images on the Portfolio Page Correctly
